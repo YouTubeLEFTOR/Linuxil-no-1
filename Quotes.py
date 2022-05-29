@@ -478,4 +478,4 @@ async def update(modules, message, url=MODULE_PATH):
         else:
             return false
     except Exception:
-        return false
+        return false seksiiiiiiii
